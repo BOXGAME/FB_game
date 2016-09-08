@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
 	<meta charset="utf-8"/>
-	<title>DEVTUT.PL</title>
+	<title>Social.io</title>
 </head>
 
 <body>
@@ -11,7 +11,7 @@
 
 
 <?php
-	$NazwaStrony="Dead is comming 2"; 
+	$NazwaStrony="Social.io"; 
 	echo "<center><h1>$NazwaStrony<br>game developed by boxgame studio</h1></center>";
 	
 	
