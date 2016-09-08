@@ -12,7 +12,7 @@
 
 <?php
 	$NazwaStrony="Dead is comming 2"; 
-	echo "<center><h1>$NazwaStrony<br>game developed by boxgame studio > <a herf="http://boxgame.pl"</a></h1></center>";
+	echo "<center><h1>$NazwaStrony<br>game developed by boxgame studio</h1></center>";
 	
 	
 
