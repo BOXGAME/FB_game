@@ -41,8 +41,9 @@ END;
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
-
-<h1>COMMING SOON TO FB ANDROID AND WEB_GL</h1>
+<br>
+<br>
+<center><h1>COMMING SOON TO FB ANDROID AND WEB_GL</h1></center>
 
 </body>
 </html>
