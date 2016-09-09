@@ -43,6 +43,7 @@ END;
 </script>
 <br>
 <img= "http://devtut.pl/gameimg/promo_fb_eater.png"</img>
+<img src="http://devtut.pl/gameimg/promo_fb_eater.pngf" alt="FB EATER">
 <br>
 <center><h1>COMMING SOON (2016) TO FB, ANDROID, AND WEB_GL.</h1></center>
 
