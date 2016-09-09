@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
 	<meta charset="utf-8"/>
-	<title>Social.io</title>
+	<title>FB EATER</title>
 </head>
 
 <body>
@@ -11,7 +11,7 @@
 
 
 <?php
-	$NazwaStrony="Social.io"; 
+	$NazwaStrony="FB EATER"; 
 	echo "<center><h1>$NazwaStrony<br>game developed by boxgame studio</h1></center>";
 	
 	
@@ -43,7 +43,7 @@ END;
 </script>
 <br>
 <br>
-<center><h1>COMMING SOON TO FB ANDROID AND WEB_GL</h1></center>
+<center><h1>COMMING SOON (2016) TO FB, ANDROID, AND WEB_GL.</h1></center>
 
 </body>
 </html>
