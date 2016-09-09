@@ -17,9 +17,7 @@
 	
 
 		echo<<<END
-	$request = new FacebookRequest($session, 'GET', '/{user-id}');
-$response = $request->execute();
-$graphObject = $response->getGraphObject();
+
 		
 END;
 ?>
